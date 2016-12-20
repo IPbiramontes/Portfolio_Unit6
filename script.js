@@ -1,4 +1,4 @@
 $(document).ready(function()
-$("button").click(function()
-$("#like").html("you like this project my guy")
+$("#like2").click(function()
+$("#like1").html("you like this project my guy")
 });
